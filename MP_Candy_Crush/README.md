@@ -25,7 +25,7 @@
   
     
      
-hint
+input: hint
   
     
 _________________________________________________________________________________________________________________________________  
@@ -43,6 +43,61 @@ ________________________________________________________________________________
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;A&emsp;&emsp;&emsp;&emsp;B&emsp;&emsp;&emsp;&emsp;C&emsp;&emsp;&emsp;&emsp;D&emsp;&emsp;&emsp;&emsp;**A**  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;B&emsp;&emsp;&emsp;&emsp;D&emsp;&emsp;&emsp;&emsp;A&emsp;&emsp;&emsp;&emsp;A&emsp;&emsp;&emsp;&emsp;B  
   
-    
+   
+input: 3A      
+_________________________________________________________________________________________________________________________________  
+  
+  
+  
+<><><><><><><><><><><><><><><><><><><><><><><><><>  
+<>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Your score: 1&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<>  
+<><><><><><><><><><><><><><><><><><><><><><><><><>  
 
+
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;A&emsp;&emsp;&emsp;&emsp;A&emsp;&emsp;&emsp;&emsp;B&emsp;&emsp;&emsp;&emsp;C&emsp;&emsp;&emsp;&emsp;D  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;E&emsp;&emsp;&emsp;&emsp; B&emsp;&emsp;&emsp;&emsp;A&emsp;&emsp;&emsp;&emsp;C&emsp;&emsp;&emsp;&emsp;  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;E&emsp;&emsp;&emsp;&emsp; C&emsp;&emsp;&emsp;&emsp;E&emsp;&emsp;&emsp;&emsp;D&emsp;&emsp;&emsp;&emsp;  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;A&emsp;&emsp;&emsp;&emsp;B&emsp;&emsp;&emsp;&emsp;C&emsp;&emsp;&emsp;&emsp;D&emsp;&emsp;&emsp;&emsp;  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;B&emsp;&emsp;&emsp;&emsp;D&emsp;&emsp;&emsp;&emsp;A&emsp;&emsp;&emsp;&emsp;A&emsp;&emsp;&emsp;&emsp;B  
+  
+    
+   
+input: 3A  
+_________________________________________________________________________________________________________________________________  
+  
+  
+  
+<><><><><><><><><><><><><><><><><><><><><><><><><>  
+<>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Your score: 1&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<>  
+<><><><><><><><><><><><><><><><><><><><><><><><><>  
+
+
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;A&emsp;&emsp;&emsp;&emsp;A&emsp;&emsp;&emsp;&emsp;B&emsp;&emsp;&emsp;&emsp;C&emsp;&emsp;&emsp;&emsp;  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;E&emsp;&emsp;&emsp;&emsp; B&emsp;&emsp;&emsp;&emsp;A&emsp;&emsp;&emsp;&emsp;C&emsp;&emsp;&emsp;&emsp;  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;E&emsp;&emsp;&emsp;&emsp; C&emsp;&emsp;&emsp;&emsp;E&emsp;&emsp;&emsp;&emsp;D&emsp;&emsp;&emsp;&emsp;  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;A&emsp;&emsp;&emsp;&emsp;B&emsp;&emsp;&emsp;&emsp;C&emsp;&emsp;&emsp;&emsp;D&emsp;&emsp;&emsp;&emsp;D  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;B&emsp;&emsp;&emsp;&emsp;D&emsp;&emsp;&emsp;&emsp;A&emsp;&emsp;&emsp;&emsp;A&emsp;&emsp;&emsp;&emsp;B  
+  
+    
+   
+input: 3A
+_________________________________________________________________________________________________________________________________  
+  
+  
+  
+<><><><><><><><><><><><><><><><><><><><><><><><><>  
+<>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Your score: 1&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<>  
+<><><><><><><><><><><><><><><><><><><><><><><><><>  
+
+
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;A&emsp;&emsp;&emsp;&emsp;A&emsp;&emsp;&emsp;&emsp;B&emsp;&emsp;&emsp;&emsp;C&emsp;&emsp;&emsp;&emsp;C  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;E&emsp;&emsp;&emsp;&emsp; B&emsp;&emsp;&emsp;&emsp;A&emsp;&emsp;&emsp;&emsp;C&emsp;&emsp;&emsp;&emsp;D  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;E&emsp;&emsp;&emsp;&emsp; C&emsp;&emsp;&emsp;&emsp;E&emsp;&emsp;&emsp;&emsp;D&emsp;&emsp;&emsp;&emsp;D  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;A&emsp;&emsp;&emsp;&emsp;B&emsp;&emsp;&emsp;&emsp;C&emsp;&emsp;&emsp;&emsp;D&emsp;&emsp;&emsp;&emsp;D  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;B&emsp;&emsp;&emsp;&emsp;D&emsp;&emsp;&emsp;&emsp;A&emsp;&emsp;&emsp;&emsp;A&emsp;&emsp;&emsp;&emsp;B  
+  
+    
+   
+input:|  
+  
 ![#f03c15](https://via.placeholder.com/15/f03c15/f03c15.png)
