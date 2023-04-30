@@ -1,3 +1,3 @@
-# Old C files
+# Old University Projects
 
-repository for my old C codes in university
+repository for my old projects/machine problems in university
